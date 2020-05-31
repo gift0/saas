@@ -1,0 +1,272 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+.header{
+	margin:0 105px 0 105px;
+	padding:30px 0 40px 0;
+	display:flex;
+	
+}
+.navbar{
+	margin-left:120px;
+}
+ul li{
+	list-style:none;
+	display:inline-block;
+	margin-left: 35px;
+	
+}
+ul li a{
+	text-decoration:none;
+	color:#051446;
+	font-family:Poppins,sans-serif;
+	font-size:15px;
+	font-weight:700;
+}
+.icons{
+	margin-left: 45px;
+}
+.active{
+	color:#6754E3;
+}
+.first{
+	margin:0 105px 0 105px;
+	padding:150px 0 40px 0;
+}
+h1{
+	font-family:Poppins,sans-serif;
+	font-size:40px;
+	font-weight:500;
+	line-height:60px;
+	color:#05305E;
+	text-align:center;
+}
+.first1{
+	font-family:Poppins,sans-serif;
+	font-size:18px;
+	line-height:30px;
+	color:#677294;
+	text-align:center;
+	padding-top:15px;
+}
+input[type=text]{
+	font-family:Poppins,sans-serif;
+	font-size:15px;
+	line-height:46px;
+	background-color:#FFFFFF;
+	color:#A29999;
+	height:60px;
+	width:630px;
+	margin-left:280px;
+	margin-top:35px;
+	padding: 6px 12px 6px 30px;
+	border-radius:25px;
+	border:solid 1px #E1E1E1;
+}
+.first2{
+	font-family:Poppins,sans-serif;
+	font-size:15px;
+	line-height:22.5px;
+	font-weight:500;
+	background-color:#6754E2;
+	color:#FFFFFF;
+	border-radius:25px;
+	height:46px;
+	width:152px;
+	margin-left:-155px;
+	border:none;
+
+}
+.second{
+	margin:0 105px 0 105px;
+}
+.second1{
+	font-family:Poppins,sans-serif;
+	font-size:18px;
+	line-height:28px;
+	color:#677294;
+	text-align:center;
+	padding-top:35px;
+	
+}
+.third{
+	margin:0 105px 0 105px;
+	border-bottom:solid 1px #677294;
+	
+}
+.third1{
+	margin-left: 85px;
+	margin-top:35px;
+	
+}
+.fourth{
+	margin:0 105px 0 105px;
+	padding-top:190px;
+
+}
+h2{
+	text-align:center;
+	font-family:Poppins,sans-serif;
+	font-size:30px;
+	font-weight:600;
+	line-height:50px;
+	color:#051441;
+}
+.fourth1{
+	display:flex;
+	margin-left: 215px;
+	margin-top:95px;
+}
+.fourth2a{
+	margin-top:15px;
+	font-family:Poppins,sans-serif;
+	font-size:24px;
+	font-weight:700;
+	line-height:29px;
+	color:#051441;
+}
+.fourth2b{
+	margin-top:15px;
+	font-family:Poppins,sans-serif;
+	font-size:14px;
+	font-weight:700;
+	background-color:#6754E2;
+	color:#FFFFFF;
+	border-radius:25px;
+	height:53px;
+	width:184px;
+	border:none;
+}
+.fourth3{
+	margin-left: 325px;
+}
+.five{
+	margin:0 105px 0 105px;
+	padding-top:130px;
+	height:908px;
+	width:1200px;
+	
+}
+.fivea{
+	font-family:Poppins,sans-serif;
+	font-size:16px;
+	line-height:28px;
+	text-align:center;
+	color:#677AB4;
+}
+.five1{
+	margin-top:60px;
+	display:flex;
+	
+}
+.five1a{
+	margin-top:50px;
+	padding:0 15px 0 15px;
+}
+.five2a{
+	height:140px;
+	width:370px;
+	padding:25px 50px 25px 50px;
+	margin-bottom:20px;
+	border-radius:15px;
+}
+.five2b{
+	font-family:Poppins,sans-serif;
+	font-size:15px;
+	font-weight:300;
+	line-height:28px;
+	color:#677294;
+}
+h4{
+	font-family:Poppins,sans-serif;
+	font-size:17px;
+	font-weight:700;
+	line-height:26px;
+	text-align:left;
+	color:#222D39;
+}
+
+.five2{
+	height:140px;
+	width:370px;
+	padding:25px 50px 25px 50px;
+	margin-bottom:20px;
+	border-radius:15px;
+    background-color:#7444FD;
+}
+.five2c{
+	font-family:Poppins,sans-serif;
+	font-size:17px;
+	font-weight:700;
+	line-height:26px;
+	text-align:left;
+	color:#FFFFFF;
+	
+}
+.five2d{
+	font-family:Poppins,sans-serif;
+	font-size:15px;
+	font-weight:300;
+	line-height:28px;
+	color:#FFFFFF;
+}
+.five3{
+	margin-left:7px;
+}
+.six{
+	height:774px;
+	width:1349px;
+	background-color:#EAEEFF;
+	margin-top:260px;
+	
+}
+.sixa{
+	font-family:Poppins,sans-serif;
+	font-size:16px;
+	line-height:28px;
+	text-align:center;
+	color:#6787BE;
+}
+.sixend{
+	padding-top:140px;
+}
+.six1a{
+	margin-top:100px;
+	
+	
+}
+.six2{
+	display:flex;
+	margin-top:-400px;
+	margin-left:440px;
+
+	
+}
+.six2a{
+	height:146px;
+	width:270px;
+	margin-left:30px;
+	background-color:#FFFFFF;
+	border-radius:15px;
+	text-align:center;
+	
+}
+.six2a1{
+	margin-top:35px;
+}
+.six3{
+	margin-top:30px;
+    display:flex;
+	margin-left:440px;
+	
+}
+.six2b{
+	font-family:Poppins,sans-serif;
+	font-size:18px;
+	font-weight:500;
+	line-height:2px;
+	color:#051441;
+	margin-top:30px;
+}
